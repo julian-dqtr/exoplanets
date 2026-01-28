@@ -21,7 +21,8 @@ The goal is to distinguish between confirmed exoplanets and false positives usin
 - PyTorch
 - Scikit-Learn
 - Pandas
-- Matplotlib / Seaborn
+- Matplotlib
+- Seaborn
 
 ## Authors
 - Sneha Basker (CentraleSupelec)
